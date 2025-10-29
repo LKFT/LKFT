@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h1>
     Olá! Eu sou Luiz Artur Silva Nunes 👋
   </h1>
@@ -14,9 +13,9 @@
 - 🔭 Atualmente estou trabalhando com **PHP, Java, JavaScript e bancos de dados SQL/MySQL**.
 - 🌱 Estou sempre buscando aprofundar meus conhecimentos em **Engenharia de Software e otimização de banco de dados**.
 - 👯‍♀️ Procuro colaborar em **projetos de código aberto** que envolvam back-end e manipulação de dados.
-- 💬 Me pergunte sobre **SQL, MySQL, Java e PHP**.
-- 📫 Como me encontrar: **[Seu e-mail ou forma de contato preferida]**.
-- ⚡️ Fato engraçado: **[Um fato curioso ou hobby seu]**.
+- 💬 Você poderia me contar algumas curiosidades sobre **SQL, MySQL, Java e PHP**.
+- 📫 Como me encontrar: **[luizsncold@gmail.com]**.
+- ⚡️ Fato engraçado: **[Meu objetivo é transformar minha paixão por games em uma carreira sólida, atuando diretamente no desenvolvimento e criação de jogos.]**.
 
 <br>
 
@@ -34,7 +33,7 @@
   
   <p><strong>Banco de Dados:</strong></p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original-wordmark.svg" height="40" alt="sql logo" />
+  <img src="https://www.fast2.tech/images/connectors/sql-logo.webp" height="40" alt="sql logo" />
   
   <br><br>
 
@@ -50,25 +49,23 @@
 
 <div align="center">
   <a href="https://github.com/SEUUSERNAME">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LKFT&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LKFT&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
-
-**Importante:** Não se esqueça de substituir `SEUUSERNAME` pelo seu nome de usuário do GitHub nos links acima!
 
 <br>
 
 ## 🤝 Conecte-se Comigo
 
 <p align="center">
-  <a href="[URL_DO_SEU_LINKEDIN]">
+  <a href="[https://www.linkedin.com/in/luiz-s-nunes ]">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:[SEU_EMAIL]">
+  <a href="mailto:[luizsncold@gmail.com]">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="[URL_DO_SEU_INSTAGRAM]">
+  <a href="[https://www.instagram.com/nunesartur_]">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
