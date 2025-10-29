@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    Olá! Eu sou Luiz Artur Silva Nunes 👋
+    Olá! Eu sou Luiz Artur SN. 👋
   </h1>
 </div>
 
